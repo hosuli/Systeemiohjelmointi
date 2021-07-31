@@ -49,6 +49,8 @@ Xv6 Usage:
   
     git clone git://github.com/mit-pdos/xv6-public.git
     
+  !!Note that due to humongous amount of files this project 3 src folder only includes the vx6 files I edited and added!!
+  
   Added system call is called getreadcount() and it counts how many times the read() system call has been called.
   When you get the build running, just type in "getreadcount" and a numbers is returned back to you.
   
