@@ -18,6 +18,7 @@ Installation:
 Reverse usage:
   Reverse is program that reverses given file (or standard input) and prints it to another file (or standard output).
   Program can be used in following ways:
+  
     prompt> ./reverse
     prompt> ./reverse input.txt
     prompt> ./reverse input.txt output.txt
